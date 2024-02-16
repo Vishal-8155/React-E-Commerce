@@ -6,6 +6,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <head>
+      <script src="http://localhost:8097"></script>
+      </head>
       <Counter></Counter>
     </div>
   );
